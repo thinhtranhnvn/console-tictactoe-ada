@@ -1,0 +1,13 @@
+
+src
+├── ai-mockup
+│   ├── ai_mockup.adb
+│   └── ai_mockup.ads
+├── app-state
+│   ├── app_state.adb
+│   └── app_state.ads
+├── console-io
+│   ├── console_io.adb
+│   └── console_io.ads
+├── src.map
+└── main.adb

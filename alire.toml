@@ -1,0 +1,9 @@
+name = "console_tictactoe"
+description = "The Tic-Tac-Toe Gameboard in Console Window"
+version = "0.1.0"
+
+authors = ["Semi Dev_"]
+maintainers = ["Semi Dev_ <thinhtranhnvn@gmail.com>"]
+maintainers-logins = ["thinhtranhnvn"]
+
+executables = ["main"]
